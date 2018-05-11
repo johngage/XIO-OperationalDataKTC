@@ -1,6 +1,8 @@
 # XIO-Operational Data KTC
 ### Data from Kibera Town Centre, Nairobi from 2016 to 2018
 
+[Go to new page](XIO-OperationalDataKTC/new.md)
+
 I am trying to introduce new tools to the KTC operation: github, Jupyter, Postman, cURL
 
 I now can reach the XIO data in two ways: using the cURL notation, or using Postman.
