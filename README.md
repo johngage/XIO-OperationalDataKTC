@@ -17,3 +17,10 @@ I now can reach the XIO data in two ways: using the cURL notation, or using Post
 [List of Data 88 connectors](https://data.berkeley.edu/education/connectors)
 
 ### This is preparation for real-time access on screens in Nairobi
+
+
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
