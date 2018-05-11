@@ -34,3 +34,12 @@ function fancyAlert(arg) {
 ```
 http://github.com - automatic!
 [GitHub](http://github.com)
+
+---
+title: This will be used as the title-tag of the page head
+---
+
+hello
+=====
+
+**You are here!**
