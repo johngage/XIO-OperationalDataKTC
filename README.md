@@ -10,8 +10,8 @@ With cURL, it takes two steps: 1) log in, and receive a token. 2. Use token for 
 In Postman, the same, but entering the initial GET request is easier, and the token response can be copied and pasted inside Postman, with the copied token in an Authentication object.
 
 
-(http://datahub.berkeley.edu/user/schacht/tree/smart-cities-connector/Lab/Lab1#)
+[Data Science 88, Fall 2017](http://datahub.berkeley.edu/user/schacht/tree/smart-cities-connector/Lab/Lab1#)
 
-(https://www.inferentialthinking.com/chapters/01/3/plotting-the-classics.html)
+[](https://www.inferentialthinking.com/chapters/01/3/plotting-the-classics.html)
 
-(https://data.berkeley.edu/education/connectors)
+[List of Data 88 connectors](https://data.berkeley.edu/education/connectors)
