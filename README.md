@@ -12,6 +12,6 @@ In Postman, the same, but entering the initial GET request is easier, and the to
 
 [Data Science 88, Fall 2017](http://datahub.berkeley.edu/user/schacht/tree/smart-cities-connector/Lab/Lab1#)
 
-[](https://www.inferentialthinking.com/chapters/01/3/plotting-the-classics.html)
+[Jupyter notebook: Classical Text processing](https://www.inferentialthinking.com/chapters/01/3/plotting-the-classics.html)
 
 [List of Data 88 connectors](https://data.berkeley.edu/education/connectors)
